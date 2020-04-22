@@ -8,6 +8,8 @@ The aim of this dataset is to encourage the research and development of artifici
 As baseline result for this dataset we used an eXplainable Deep Learning approach (xDNN) which we could achieve an F1 score of 0.9877 which is very promising.
 The data is available www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset.
 
+Note that to use extract the featuresTrain_SARS file you will need 7zip, due the size of the file.
+
 Please cite: 
 
 Angelov, P., & Soares, E. (2019). Towards Explainable Deep Neural Networks (xDNN). arXiv preprint arXiv:1912.02523.
